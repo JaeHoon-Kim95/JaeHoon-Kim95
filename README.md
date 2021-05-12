@@ -1,4 +1,8 @@
-[!JAVA](https://img.shields.io/badge/-JAVA-orange)
+![JAVA](https://img.shields.io/badge/-JAVA-orange)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Oracle](https://img.shields.io/badge/-Oracle-brightgreen)
+![MySql](https://img.shields.io/badge/-MySql-green)
+![Spring](https://img.shields.io/badge/-Spring-yellowgreen)
 
 <!--
 **JaeHoon-Kim95/JaeHoon-Kim95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
