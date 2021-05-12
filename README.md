@@ -1,4 +1,4 @@
-### Hi there 👋
+[!JAVA](https://img.shields.io/badge/-JAVA-orange)
 
 <!--
 **JaeHoon-Kim95/JaeHoon-Kim95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
